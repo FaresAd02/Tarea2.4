@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Tarea2.4</string>
+    <string name="clear_signature">Limpiar firma</string>
+    <string name="save">Guardar</string>
+</resources>
